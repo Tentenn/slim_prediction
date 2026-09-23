@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# general data
+*.tsv
+*.json
+*.tar.gz
+*.zip
